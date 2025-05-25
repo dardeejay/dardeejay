@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dardeejay" alt="dardeejay" /></a> </p>
 
-- 🔭 I’m currently working on [Nalu Moments](www.nalumoments.com)
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on Nalu AI - An AI Chatbot plugin for WordPress sites
 
 - 💬 Ask me about **React.js, Next.js, and PHP**
 
